@@ -1,5 +1,5 @@
 {
-  "name": "laplace-2d",
+  "name": "heat-transfer",
   "version": "0.1.0",
   "private": true,
   "scripts": {
